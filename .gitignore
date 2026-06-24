@@ -1,0 +1,23 @@
+# Java / Maven
+backend/target/
+*.class
+
+# Node / React
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# Python
+ai-service/__pycache__/
+ai-service/ai/__pycache__/
+ai-service/.env
+**/*.pyc
+
+# Generated seed data (large)
+database/seed_data.sql
+
+# IDE / OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
