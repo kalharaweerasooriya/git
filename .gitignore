@@ -13,9 +13,6 @@ ai-service/ai/__pycache__/
 ai-service/.env
 **/*.pyc
 
-# Generated seed data (large)
-database/seed_data.sql
-
 # IDE / OS
 .idea/
 .vscode/
